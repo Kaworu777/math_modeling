@@ -1,12 +1,7 @@
 import numpy as np
-
-
-def avg(n):
-    a = np.average(n)
-    print(a)
-
-L = [100, 96, 73, 24, 56]
+L = [1, 4, 6, 3, 2]
 list = np.array(L)
+def avg(n):
+    m = np.average(n)
+    print(m)
 avg(list)
-
-
