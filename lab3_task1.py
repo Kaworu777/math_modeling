@@ -1,0 +1,10 @@
+gravity = 6.67 * 10**(-11)
+light_speed = 3 * 10**8
+mg = 9.8
+pi = 3.14
+magnetic_const = 4 * 3.14 * 10**(-7)
+plank_num = 6.63*10**(-34)
+eiler_num = 0.57
+Avogadro_Const = 6.022 * 10**23
+bolcman_num = 1.38066 * 10**(-23)
+gasconst = 8.314
