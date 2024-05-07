@@ -5,7 +5,7 @@ from matplotlib.animation import FuncAnimation
 def moon_coord(R, v, t):
     alpha = v * np.pi / 180 * t 
     x = R * np.cos(alpha)
-    y = R * np.sin(alpha) * 0.8
+    y = R * np.sin(alpha)
     return x, y
 
 def animate(i):
